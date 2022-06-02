@@ -37,3 +37,7 @@ func main() {
     fmt.Println(ms.ConvertFloat("-60s")) // Returns: 60000
 }
 ```
+
+## Related
+
+[ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
